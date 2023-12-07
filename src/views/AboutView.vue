@@ -1,6 +1,7 @@
 <template>
   <div class="about">
-    <h1>pan9</h1>
+    <h1>pan9, hahahahahahahahha</h1>
+    <p>I am sha qiang</p>
   </div>
 </template>
 
